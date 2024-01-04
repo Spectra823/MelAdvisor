@@ -1,8 +1,13 @@
+# Readme in different languages
+[![en](https://img.shields.io/badge/readme-en-blue?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.md)
+
+
 # MelAdvisor
-MelAdvisor es una app creada por Carla Marcos Vázquez, estudiante de segundo de Bachillerato (en el año de creación de la aplicación) del Bachillerato de Excelencia de la Vaguada de la Palma, Salamanca.
+MelAdvisor is an App developed by Carla Marcos Vázquez (aka Spectra820) as a Final Highschool Project for the BIE (Bachillerato de Investigación y Excelencia).
+This app's purpose if to classify images of Pigmented Skin Lesions in two groups: melanomas and nevus. In the future it will be possible for the app to classify the image in more types of lesions, but at first we weill only focus on this two until the app is stable enough to improve upon.
 
-Esta aplicación tiene como objetivo la clasificación de imágenes de lesiones cutáneas en dos grupos: nevus (benignos), y melanomas (malignos). En el futuro es posible que se añadan nuevas categorías y se haga un completo rework de al red neuronal utilizada (creada también por Carla para su uso exclusivo en este proyecto).
+The Convolutional Neural Network utilized in this project was also created by Carla for it's exclusive use in this project. 
 
-La aplicación estará disponible como APK en este Github hasta que me sea viable el cumplir con las condiciones de la Google Store. La llegada a dispositivos Apple está planeada para el futuro lejano, pero es posible que no se llegue a dar.
+The app will be available as an APK in this Github for the time being, and might get uploaded to the Google Play Store in the future, time permitting. Making it work on iOS devices is not something I'll be focused on anytime soon, so for now it'll stay as an Android exclusive.
 
-## Guía de descarga e instalación de la APK en dispositivos Android
+## Installation Guide (Android devices only)
