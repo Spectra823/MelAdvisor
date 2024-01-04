@@ -1,6 +1,7 @@
 # Readme in different languages
 [![en](https://img.shields.io/badge/readme-en-blue?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.md)
 [![es](https://img.shields.io/badge/readme-es-yellow?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.es.md)
+[![fr](https://img.shields.io/badge/readme-fr-red?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.fr.md)
 
 # MelAdvisor
 MelAdvisor is an App developed by Carla Marcos Vázquez (aka Spectra820) as a Final Highschool Project for the BIE (Bachillerato de Investigación y Excelencia).
