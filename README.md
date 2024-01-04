@@ -4,7 +4,7 @@
 [![fr](https://img.shields.io/badge/readme-fr-red?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.fr.md)
 
 # MelAdvisor
-MelAdvisor is an App developed by Carla Marcos Vázquez (aka Spectra820) as a Final Highschool Project for the BIE (Bachillerato de Investigación y Excelencia).
+MelAdvisor is an App developed by Carla Marcos Vázquez (aka Spectra823) as a Final Highschool Project for the BIE (Bachillerato de Investigación y Excelencia).
 This app's purpose if to classify images of Pigmented Skin Lesions in two groups: melanomas and nevus. In the future it will be possible for the app to classify the image in more types of lesions, but at first we weill only focus on this two until the app is stable enough to improve upon.
 
 The Convolutional Neural Network utilized in this project was also created by Carla for it's exclusive use in this project. 
