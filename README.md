@@ -11,4 +11,10 @@ The Convolutional Neural Network utilized in this project was also created by Ca
 
 The app will be available as an APK in this Github for the time being, and might get uploaded to the Google Play Store in the future, time permitting. Making it work on iOS devices is not something I'll be focused on anytime soon, so for now it'll stay as an Android exclusive.
 
+## How it works
+
 ## Installation Guide (Android devices only)
+
+## Usage
+
+## Roadmap
