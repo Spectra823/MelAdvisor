@@ -28,7 +28,7 @@ What this App is not, and never will be no matter it's level of accuracy, is a r
 I'm serious. Do not risk your life because taking a picture with my app was easier tha going to a doctor and getting a second, better educated, opinion on the topic.
 
 ## Roadmap
-Very probable changes:
+### Very probable changes:
 +Add Local Database: This will allow users to keep track of their lesions' development by taking mutiple pictures in different dates. A file will be created for each new lesion, and in it multiple images of that lesion will be converted into a simple timeline. The user will have to stipulate what lesion the new images belong to after taking it, but there will be a filtering system so it is easier to find the desired lesion. 
 This way. they'll be able to know whether or not their lesions are growing, their shape changing... 
 I also intend to make it so the file for each lesion can be easily email to medical professionals in a neat PDF showcasing images, time in which they were taken, lesion meassurements...
@@ -45,10 +45,10 @@ The good thing is, if you feel like rebuking your trust any daym, you can just g
 
 +Add a "Wiki" tab: I intent to create a bottom bar with a few more functionalities the first of which will be the Wiki. In it, I intent to briefly explain what is a pigmented lessions, types of lessions that MelAdvisor can classify, advice on what to do after you get each output... This will be an easy way of keeping users informed about anything realted to MelAdvisor in a quick and easy manner. Also, all updates after this one will include a new wiki section so you can know what ahs been added, updated...
 
-I will do my best, but it's not granted:
+### I will do my best, but it's not granted:
 +Live analysis: being able to analyze and classify videos on the fly, as they are taken. Classifying multiple lesions at once, and being able to create a new folder for each (or add the image to your existing folder) with a simple click over the lesion.
 This is quite hard, but not impossible to do. I believe that, with enough time and knowledge, I will be able to do this.
 
-Very unlikely:
+### Very unlikely:
 +Release for iOS: I'm sorry dear iPhone users, but I do not own a Mac and, frankly, don't think I will be able to afford one just to program this app for you lot. I might try asking a few family members to lend me theirs so I can release a version for you, but I do not know if I would be able to mantain it (cause I cannot borrow their computer everytime I come up with something new or want to apply a quick fix). So, for now, it'll be exclusively an Android App.
 Maybe there is a way to install APKs in iOS. I'll try to find another way to get MelAdvisor to you all.
