@@ -44,6 +44,7 @@ newer and better models for the App. But this will ALWAYS be optional.
 3.-Price. As a student, I do not have the monetary means to keep a server up and running (I know there are services that offer servers for like 2 euros a month, but as I said earlier, privacy is a main cocnern for me, and leaving my users info in the hands of an unknown entity is anything but privacy).
 
 The downsides:
+
 1.-It will take up space in your device, and ahs the potential to use quite a lot if you take thousands of images.
 
 2.-You have to give it access to your device's storage. Yeah, I know, kind of a bummer for us privacy freaks, but I have no other way of doing this (not that I know of, if you have any better ideas please do tell me). I believe this is a better alternative to giving your data to a big corporation that will do God-knows-what with it. I am but a student and can assure you that I have no monetary intent with this App. It is just a passion project that I develop in my free time. 
