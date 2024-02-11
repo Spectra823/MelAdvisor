@@ -52,7 +52,7 @@ De plus, si vous souhaitez à tout moment supprimer vos données, il vous suffit
 
 Il s'agira d'une tâche complexe, mais je suis convaincue que, si je dispose de suffisamment de temps et de connaissances, j'y parviendrai.
 
-### Presque impossible :
+### Très improbable :
 
 +Lancement de l'application pour iOS : Malheureusement, je ne possède pas de Mac et honnêtement, je ne pense pas qu'il soit judicieux d'en acheter un juste pour programmer cette application sur iOS. J'essaierais bien d'emprunter l'appareil d'un membre de ma famille, mais je ne pense pas pouvoir maintenir l'application dans l'état que je souhaite (puisque je ne peux pas emprunter leur appareil à chaque fois que j'ai une nouvelle idée ou que je trouve un petit correctif pour quelque chose). Donc, pour l'instant, MelAdvisor sera exclusif à Androird (désolée, chers utilisateurs d'Apple).
 
