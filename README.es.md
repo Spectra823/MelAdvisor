@@ -25,7 +25,7 @@ Lo que esta app no es, y jamás será, es un sustituto para la opinión cualific
 En serio. No arriesguen su salud porque era más sencillo tomar una foto con MelAdvisor que ir al médico a certificar de qué tipo de lesión se trata.
 
 ## Desarrollo futuro (Hoja de ruta)
-### Cambios muy probables:
+### Cambios muy probables
 +Añadir base de datos local: Esto permitirá al usuario mantener un seguimiento de sus lunares, tomando múltiples fotografías de la misma lesión que se ordenarán en una línea del tiempo para mayor claridad. Se creará un archivo para cada lunar, con sus imágenes y datos relacionados. Para añadir nuevas imágenes al archivo, se deberá estipular a qué lunar pertenecen al tomarlas (pondré un botón de + o algo parecido para ahcer este proceso sencillo). Toda esta información será después representada en un apartado a aprte con un listado mostrando todos los lunares, en que se podrá filtrar por fecha, tamaño...
 
 De esta forma, los usuarios pueden mantener un seguimiento sencillo del crecimiento y los cambios de sus lunares.
@@ -40,7 +40,7 @@ Trataré de realizar todo esto en torno a una base local por tres motivos princi
 
 3.-Costes. No cuento con los recursos necesarios para poder mantener un servidor funcionando 24/7. Sé que existen servicios que te alquilan un servidor por algo más de 2 euros al mes, pero como ya he dicho, la privacidad es una de mis principales preocuapciones, y dejar los datos de mis usuarios en manos de terceros va contra mis principios y los de MelAdvisor.
 
-Por supuesto, esto también tiene aspectos negativos:
+Por supuesto, esto también tiene aspectos negativos :
 
 1.-Los datos ocuparán espacio en su dispositivo, y podría llegar a ocupar bastante si toma muchas fotos a gran calidad etc...
 
@@ -48,14 +48,14 @@ Por supuesto, esto también tiene aspectos negativos:
 
 Además, si en cualquier momento desean eliminar sus datos, simplemente deben entrar en el almacenamiento de su dispositivo y borrar los archivos. Añadiré además botones para hacer el proceso más simple desde la propia app.
 
-+Añadir una "Wiki": Crearé una barra inferior en que podrán acceder a algunas nuevas funcionalidades, la primera de als cuales será la Wiki. En ella, explicaré de forma breve y sencilla qué son als lesiones pigmentadas, que tipos existen y cuales puede reconocer MelAdvisor, daré consejos sobre cómo enfrentar cada tipo de lesión... Además, en cada nueva actualización después de esta crearé un pequeño apartado en la Wiki explicando las novedades y cambios, para manetenerles siempre informados.
++Añadir una "Wiki" : Crearé una barra inferior en que podrán acceder a algunas nuevas funcionalidades, la primera de als cuales será la Wiki. En ella, explicaré de forma breve y sencilla qué son als lesiones pigmentadas, que tipos existen y cuales puede reconocer MelAdvisor, daré consejos sobre cómo enfrentar cada tipo de lesión... Además, en cada nueva actualización después de esta crearé un pequeño apartado en la Wiki explicando las novedades y cambios, para manetenerles siempre informados.
 
-### Lo intentaré, pero no puedo asegurar su realización:
+### Lo intentaré, pero no puedo asegurar su realización
 +Análisis en directo: Que la apps sea capaz de analizar y clasificar lesiones en video, en directo. Será capaz de clasificar múltiples lesiones a la vez y que a su vez se podrá crear un nuevo archivo apra cada lesión (o añadir las nuevas imagenes a un archivo ya existente) con tan solo clickear sobre dicha pigmentación.
 
 Resultará algo complejo de realizar, pero confío en que, con el suficiente tiempo y conocimientos, pueda realizarlo.
 
-### Casi imposible:
-+Lanzar la app para iOS: Tristemente, no poseo un Mac y, sinceramente, no creo que sea sensato comprar uno solo para programar esta aplicación en iOS. Trataría de pedir prestado su dispositivo a algunos familiares pero no creo que fuese capaz de mantener la aplicación en el estado en que me gustaría (ya que no puedo pedirles prestado su dispositivo cada vez que me surja una nueva idea o encuentre un pequeño arreglo para algo). Por lo que, demomento, MelAdvisor será exclusiva para Androird (lo siento, queridos usuarios de Apple).
+### Buf, lo veo chungo
++Lanzar la app para iOS : Tristemente, no poseo un Mac y, sinceramente, no creo que sea sensato comprar uno solo para programar esta aplicación en iOS. Trataría de pedir prestado su dispositivo a algunos familiares pero no creo que fuese capaz de mantener la aplicación en el estado en que me gustaría (ya que no puedo pedirles prestado su dispositivo cada vez que me surja una nueva idea o encuentre un pequeño arreglo para algo). Por lo que, demomento, MelAdvisor será exclusiva para Androird (lo siento, queridos usuarios de Apple).
 
 Aunque, quizás haya una forma de instalar APKs en un iPhone. Trataré de investigar esto e idear otra forma de haceros llegar la app.
