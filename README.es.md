@@ -32,19 +32,19 @@ De esta forma, los usuarios pueden mantener un seguimiento sencillo del crecimie
 
 También espero poder lograr que toda esta información pueda ser exportada y enviada en un PDF, en caso de que necesiten enviársela a su médico.
 
-Trataré de realizar todo esto en torno a una base local por tres motivos principales:
+Trataré de realizar todo esto en torno a una base local por tres motivos principales :
 
-1.-Privacidad. No quiero que MelAdvisor monitoree a sus usuarios, mucho menos en algo tan sensible como es su salud. Por supuesto, en pos de mejorar el algoritmo, incluiré una opción para enviarnos fotografías con diagnóstico, para poder utilizarlas en una nueva versión de la red y mejorar el rendimiento y la fiabilidad de la aplicación. Pero esto SIEMPRE será opcional.
+1. Privacidad. No quiero que MelAdvisor monitoree a sus usuarios, mucho menos en algo tan sensible como es su salud. Por supuesto, en pos de mejorar el algoritmo, incluiré una opción para enviarnos fotografías con diagnóstico, para poder utilizarlas en una nueva versión de la red y mejorar el rendimiento y la fiabilidad de la aplicación. Pero esto SIEMPRE será opcional.
 
-2.-Uso offline. Al tener toda la información almacenada en su propio dispositivo, no necesitarán de conexión alguna para acceder a ella. Quiero hacer que MelAdvisor funcione totalmente offline si es posible (excepto la función que eprmite buscar el resultado en Google por si quieren más informaciión, pero eso es algo menor). De esta manera, más gente tendrá acceso a la app sin necesidad de preocuparse por la calidad de su Internet.
+2. Uso offline. Al tener toda la información almacenada en su propio dispositivo, no necesitarán de conexión alguna para acceder a ella. Quiero hacer que MelAdvisor funcione totalmente offline si es posible (excepto la función que eprmite buscar el resultado en Google por si quieren más informaciión, pero eso es algo menor). De esta manera, más gente tendrá acceso a la app sin necesidad de preocuparse por la calidad de su Internet.
 
-3.-Costes. No cuento con los recursos necesarios para poder mantener un servidor funcionando 24/7. Sé que existen servicios que te alquilan un servidor por algo más de 2 euros al mes, pero como ya he dicho, la privacidad es una de mis principales preocuapciones, y dejar los datos de mis usuarios en manos de terceros va contra mis principios y los de MelAdvisor.
+3. Costes. No cuento con los recursos necesarios para poder mantener un servidor funcionando 24/7. Sé que existen servicios que te alquilan un servidor por algo más de 2 euros al mes, pero como ya he dicho, la privacidad es una de mis principales preocuapciones, y dejar los datos de mis usuarios en manos de terceros va contra mis principios y los de MelAdvisor.
 
 Por supuesto, esto también tiene aspectos negativos :
 
-1.-Los datos ocuparán espacio en su dispositivo, y podría llegar a ocupar bastante si toma muchas fotos a gran calidad etc...
+1. Los datos ocuparán espacio en su dispositivo, y podría llegar a ocupar bastante si toma muchas fotos a gran calidad etc...
 
-2.-Para que funcione, es necesario que MelAdvisor acceda al almacenamiento interno del dispositivo. Lo sé, es algo incómodo para los amantes de la privacidad como yo, pero es la mejor solución que se me ocurre para implementar estas nuevas funcionalidades, que considero cruciales. Si alguno de ustedes tuviese alguna mejor alternativa en mente, no duden en comentármela. Si les consuela, puedo asegurarles que no tengo ningún tipo de interés monetario al crear esta aplicación. Es tan solo un proyecto escolar al que he toamdo cariño y que deseo continuar en mi tiempo libre.
+2. Para que funcione, es necesario que MelAdvisor acceda al almacenamiento interno del dispositivo. Lo sé, es algo incómodo para los amantes de la privacidad como yo, pero es la mejor solución que se me ocurre para implementar estas nuevas funcionalidades, que considero cruciales. Si alguno de ustedes tuviese alguna mejor alternativa en mente, no duden en comentármela. Si les consuela, puedo asegurarles que no tengo ningún tipo de interés monetario al crear esta aplicación. Es tan solo un proyecto escolar al que he toamdo cariño y que deseo continuar en mi tiempo libre.
 
 Además, si en cualquier momento desean eliminar sus datos, simplemente deben entrar en el almacenamiento de su dispositivo y borrar los archivos. Añadiré además botones para hacer el proceso más simple desde la propia app.
 
