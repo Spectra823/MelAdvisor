@@ -23,7 +23,7 @@ Cette application n'est pas, et ne sera jamais, quel que soit son niveau de pré
 Je vous en prie, ne risquez pas votre vie parce qu'il était plus facile de prendre une photo avec mon application que d'aller voir un médecin et d'obtenir un deuxième avis, mieux informé, sur le sujet.
 
 ## Feuille de route
-Changements très probables :
+### Changements très probables :
 +Ajout d'une base de données locale : Cela permettra aux utilisateurs de suivre l'évolution de leurs lésions en prenant plusieurs photos à des dates différentes. Un fichier sera créé pour chaque nouvelle lésion, et dans ce fichier, plusieurs images de cette lésion seront converties en une simple ligne de temps. L'utilisateur devra préciser à quelle lésion appartiennent les nouvelles images après les avoir prises, mais il y aura un système de filtrage pour qu'il soit plus facile de trouver la lésion souhaitée. De cette façon, ils pourront savoir si leurs lésions grandissent ou non, si leur forme change...
 
 J'ai également l'intention de faire en sorte que le fichier de chaque lésion puisse être facilement envoyé par e-mail aux professionnels de la santé dans un PDF soigné présentant les images, l'heure à laquelle elles ont été prises, les mesures de la lésion...
@@ -46,8 +46,14 @@ De plus, si vous souhaitez à tout moment supprimer vos données, il vous suffit
 
 +Ajout d'un "Wiki" : je vais créer une barre inférieure où vous pourrez accéder à de nouvelles fonctionnalités, la première d'entre elles étant le Wiki. J'y expliquerai brièvement et simplement ce que sont les lésions pigmentaires, quels types existent et lesquels MelAdvisor peut reconnaître, je donnerai des conseils sur la façon de traiter chaque type de lésion... D'autre part, à chaque nouvelle mise à jour après celle-ci, je créerai une petite section dans le Wiki expliquant les nouveautés et les changements, afin de vous tenir toujours informés.
 
-J'essaierai de le faire, mais je ne peux pas assurer sa réalisation :
+### J'essaierai de le faire, mais je ne peux pas assurer sa réalisation :
 
 +Analyse en direct : L'application sera capable d'analyser et de classer les blessures sur vidéo, en direct. Elle sera capable de classer plusieurs lésions en même temps et de créer un nouveau fichier pour chaque lésion (ou d'ajouter les nouvelles images à un fichier existant) simplement en cliquant sur la pigmentation.
 
 Il s'agira d'une tâche complexe, mais je suis convaincue que, si je dispose de suffisamment de temps et de connaissances, j'y parviendrai.
+
+### Presque impossible :
+
++Lancement de l'application pour iOS : Malheureusement, je ne possède pas de Mac et honnêtement, je ne pense pas qu'il soit judicieux d'en acheter un juste pour programmer cette application sur iOS. J'essaierais bien d'emprunter l'appareil d'un membre de ma famille, mais je ne pense pas pouvoir maintenir l'application dans l'état que je souhaite (puisque je ne peux pas emprunter leur appareil à chaque fois que j'ai une nouvelle idée ou que je trouve un petit correctif pour quelque chose). Donc, pour l'instant, MelAdvisor sera exclusif à Androird (désolée, chers utilisateurs d'Apple).
+
+Cependant, il existe peut-être un moyen d'installer des APK sur un iPhone. J'essaierai d'enquêter sur ce point et de trouver un autre moyen de vous faire parvenir l'application.
