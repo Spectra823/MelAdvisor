@@ -20,7 +20,7 @@ En caso de no aparecerle esta ventana emergente, diríjase a Ajustes > Aplicacio
 3. Vuelva a la descarga y dele a "Instalar". La app debería apaarecer en su sistema en breves instantes.
 Aquí tiene un pequeño GIF con todo el proceso:
 
-<p align="center">https://github.com/Spectra823/MelAdvisor/assets/144826015/2dd3c049-ecb2-42da-9a6f-9dac0ae82a83
+<p align="center"> https://github.com/Spectra823/MelAdvisor/assets/144826015/2dd3c049-ecb2-42da-9a6f-9dac0ae82a83
 
 Para revocar estos permisos, realice el mismo proceso dirigiéndose a los ajustes de su app escogida, y desactivando la opción "Instalar aplicaciones de orígenes desconocidos".
 ## Uso
