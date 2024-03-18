@@ -27,6 +27,8 @@ If it doesnt give you an option to do this automatically, you must go to Setting
 3. Go back, click on Install. It should take a short time until you see another message saying it was installed succesfully.
 Here is a GIF showcasing all the steps:
 
+https://github.com/Spectra823/MelAdvisor/assets/144826015/f46f1a07-15fc-42ab-85b8-7f34b4e95e6d
+
 In case you wish to revoke this permissions, simply go back to that App's Settings and toggle off the "Install unknown apps" option.
 
 ## Usage
