@@ -12,9 +12,17 @@ En el futuro añadiré nuevas funciones y mejoras cuyo uso iré explicando de fo
 Aun así, ante cualquier duda, no duden en escribirme o dejarme un comentario, y trataré de responderles como mejor pueda.
 
 ## Guía de descarga e instalación de la APK en dispositivos Android
-De momento la App sigue en fases de desarrollo tempranas, por lo que no voy a subir todavía una APK para descargar. Cuando considere que está en un estado lo suficientemente estable y avanzado para su uso general, subiré un archivo y explicaré en este apartado
-descargar e instalar MelAdvisor.
+1. Descargue la APK mediante este enlace: https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link
+2. Una vez descargado, vaya a su aplicación de Mis Archvos (o aquella App que utilices para almacenar tus descargas). Dele click al archivo, llamado "MelAdvisor.apk".
+Le aparecerá una ventana diciéndole que tenga cuidado puesto que la App no proviene de una tienda oficial (como Google Play). Le pedirá entonces permisos para permitir su instalación.
+Dele a "Ajustes" en esa misma ventana, y presione la opción "Permitir aplicaciones de esta fuente".
+En caso de no aparecerle esta ventana emergente, diríjase a Ajustes > Aplicaciones > Mis Archivos (o la app de su preferencia). Navegue hacia abajo hasta encontrar una opción llamada "Instalar aplicaciones de orígenes desconocidos" y permítala.
+3. Vuelva a la descarga y dele a "Instalar". La app debería apaarecer en su sistema en breves instantes.
+Aquí tiene un pequeño GIF con todo el proceso:
 
+https://github.com/Spectra823/MelAdvisor/assets/144826015/2dd3c049-ecb2-42da-9a6f-9dac0ae82a83
+
+Para revocar estos permisos, realice el mismo proceso dirigiéndose a los ajustes de su app escogida, y desactivando la opción "Instalar aplicaciones de orígenes desconocidos".
 ## Uso
 MelAdvisor ha sido ideada como una forma sencilla y rápida de checkear tus lunares ante cualquier posible incertidumbre sobre la naturaleza de estas lesiones. La deteción precoz de melanomas es crucial, ya que aumenta en gran medida las posibilidades de sorbevivir a este cancer.
 
