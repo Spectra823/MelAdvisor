@@ -13,7 +13,14 @@ MelAvisor utilise un réseau neuronal convolutif (CNN) pour classer les lésions
 À l'avenir, des fonctionnalités nouvelles et améliorées seront ajoutées à MelAdvisor. Je laisserai ici de brèves explications sur chacune d'entre elles au fur et à mesure. Néanmoins, si vous avez des doutes sur quoi que ce soit concernant MelAdvisor, n'hésitez pas à me contacter.
 
 ## Guide d' installation (appareils Android uniquement)
-Pour l'instant, l'application est encore en phase de développement. Une fois que je l'aurai jugée suffisamment bonne pour être publiée, j'expliquerai brièvement dans cette section comment la télécharger et l'installer sur votre appareil.
+1. Téléchargez l'APK à partir de ce lien: https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link
+   
+2. Une fois téléchargé, allez dans vos archives et cliquez sur le fichier. Une fenêtre devrait s'ouvrir pour vous dire de faire attention, car l'application n'a pas été créée par une source connue (ce qui signifie qu'elle n'a pas été téléchargée à partir d'une boutique d'applications officielle comme Google Play). Elle vous demandera la permission d'installer ce type d'applications inconnues. Cliquez sur Paramètres, puis sur "Autoriser à partir de cette source". S'il ne vous donne pas la possibilité de le faire automatiquement, vous devez aller dans Paramètres> Applications> Mes Fichiers (ou toute autre application que vous avez utilisée pour stocker le fichier téléchargé) et descendre jusqu'à ce que vous voyiez "Installer des applications inconnues". Activez cette option.
+
+3. Revenez en arrière et cliquez sur Installer. Cela devrait prendre un peu de temps jusqu'à ce que vous voyiez un autre message indiquant que l'installation a réussi.
+Voici un GIF illustrant toutes les étapes:
+
+https://github.com/Spectra823/MelAdvisor/assets/144826015/b54d177e-b581-44b7-ac3c-ab5e98ba810c
 
 ## Utilisation
 MelAdvisor est un moyen simple de vérifier l'absence de mélanome dans les lésions pigmentées. La détection précoce de ce type de lésions malignes est cruciale, car les chances de survie à ce cancer s'amenuisent au fur et à mesure qu'il se développe. La simplicité d'utilisation de cette application permet à tout utilisateur, quel que soit son niveau de connaissances sur le sujet, de savoir avec un bon degré de certitude ce que sont ses lésions.
