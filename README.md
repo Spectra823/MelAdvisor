@@ -18,8 +18,14 @@ In the future, newer and better functionalities will be added to MelAdvisor. I w
 Nevertheless, if you have any doubts about anything related to MelAdvisor, do not hesitate in contacting me.
 
 ## Installation Guide (Android devices only)
-For now the App is still in early development stages. Once I deem it good enough for release, I'll briefly explain how to download and install it in your device.
+1.- Download the APK from this link: https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link
+2.- Once downloaded, go to your archives and click on the file. A window should pop up telling you to be careful, as the app is not made by any know source (which means it was not downloaded from an oficial app store like Gogle Play).
+It will ask you for permission to install this kind of unknown apps. Click on settings, and then toggle on "Allow from this source".
+If it doesnt give you an option to do this automatically, you must go to Settings> Applications> Archives (or whatever app you utilized to store the downloaded file in) and go down until you see "Install unknown apps". Toogle that on.
+3.- Go back, click on Install. It should take a short time until you see another message saying it was installed succesfully.
+Here is a GIF showcasing all the steps:
 
+In case you wish to revoke this permissions, go to Settings > 
 ## Usage
 MelAdvisor is meant to be a simple way to check your pigmented lesions for any melanoma. Early recognition of this kind of malign lesions is crucial, as the chances of survival for this cancer grow slimmer as it develops. 
 The simplicity of use of this app allows any user, regardless of their level of knowledge about this issues, to know with a good degree of certainty what their lesions might be. 
