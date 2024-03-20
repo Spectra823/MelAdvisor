@@ -12,7 +12,7 @@ En el futuro añadiré nuevas funciones y mejoras cuyo uso iré explicando de fo
 Aun así, ante cualquier duda, no duden en escribirme o dejarme un comentario, y trataré de responderles como mejor pueda.
 
 ## Guía de descarga e instalación de la APK en dispositivos Android
-1. Descargue la APK mediante este enlace: https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link
+1. Descargue la APK mediante este enlace: [https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link](https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drivesdk)
 2. Una vez descargado, vaya a su aplicación de Mis Archvos (o aquella App que utilices para almacenar tus descargas). Dele click al archivo, llamado "MelAdvisor.apk".
 Le aparecerá una ventana diciéndole que tenga cuidado puesto que la App no proviene de una tienda oficial (como Google Play). Le pedirá entonces permisos para permitir su instalación.
 Dele a "Ajustes" en esa misma ventana, y presione la opción "Permitir aplicaciones de esta fuente".
