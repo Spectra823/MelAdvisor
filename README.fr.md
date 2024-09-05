@@ -13,7 +13,7 @@ MelAvisor utilise un réseau neuronal convolutif (CNN) pour classer les lésions
 À l'avenir, des fonctionnalités nouvelles et améliorées seront ajoutées à MelAdvisor. Je laisserai ici de brèves explications sur chacune d'entre elles au fur et à mesure. Néanmoins, si vous avez des doutes sur quoi que ce soit concernant MelAdvisor, n'hésitez pas à me contacter.
 
 ## Guide d' installation (appareils Android uniquement)
-1. Téléchargez l'APK à partir de ce lien: [https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link](https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drivesdk)
+1. Téléchargez l'APK à partir de ce lien: https://www.dropbox.com/scl/fi/8kc3y8b19i6zcwmi4a87l/MelAdvisor.apk?rlkey=y8qg6afijucycaszjqfpcehfi&st=kxf14nwp&dl=0
    
 2. Une fois téléchargé, allez dans vos archives et cliquez sur le fichier. Une fenêtre devrait s'ouvrir pour vous dire de faire attention, car l'application n'a pas été créée par une source connue (ce qui signifie qu'elle n'a pas été téléchargée à partir d'une boutique d'applications officielle comme Google Play). Elle vous demandera la permission d'installer ce type d'applications inconnues. Cliquez sur Paramètres, puis sur "Autoriser à partir de cette source". S'il ne vous donne pas la possibilité de le faire automatiquement, vous devez aller dans Paramètres> Applications> Mes Fichiers (ou toute autre application que vous avez utilisée pour stocker le fichier téléchargé) et descendre jusqu'à ce que vous voyiez "Installer des applications inconnues". Activez cette option.
 
