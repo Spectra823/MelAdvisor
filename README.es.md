@@ -1,3 +1,8 @@
+# Readme in different languages
+[![en](https://img.shields.io/badge/readme-en-blue?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.md)
+[![es](https://img.shields.io/badge/readme-es-yellow?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.es.md)
+[![fr](https://img.shields.io/badge/readme-fr-red?style=flat)](https://github.com/Spectra823/MelAdvisor/blob/main/README.fr.md)
+
 # MelAdvisor
 MelAdvisor es una app creada por Carla Marcos Vázquez, estudiante de segundo de Bachillerato (en el año de creación de la aplicación) del Bachillerato de Excelencia de la Vaguada de la Palma, Salamanca.
 
