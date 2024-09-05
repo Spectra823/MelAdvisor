@@ -18,7 +18,7 @@ In the future, newer and better functionalities will be added to MelAdvisor. I w
 Nevertheless, if you have any doubts about anything related to MelAdvisor, do not hesitate in contacting me.
 
 ## Installation Guide (Android devices only)
-1. Download the APK from this link: [https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link](https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drivesdk)
+1. Download the APK from this link: [https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drive_link](https://www.dropbox.com/scl/fi/8kc3y8b19i6zcwmi4a87l/MelAdvisor.apk?rlkey=y8qg6afijucycaszjqfpcehfi&st=e5r6xhwg&dl=0)]([https://drive.google.com/file/d/1cS5IhiLOI1d8bVjBEujIV0Dmkq-FfOSD/view?usp=drivesdk](https://www.dropbox.com/scl/fi/8kc3y8b19i6zcwmi4a87l/MelAdvisor.apk?rlkey=y8qg6afijucycaszjqfpcehfi&st=e5r6xhwg&dl=0))
 
 2. Once downloaded, go to your archives and click on the file. A window should pop up telling you to be careful, as the app is not made by any know source (which means it was not downloaded from an oficial app store like Gogle Play).
 It will ask you for permission to install this kind of unknown apps. Click on settings, and then toggle on "Allow from this source".
