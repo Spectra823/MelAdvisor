@@ -61,11 +61,11 @@ I'm serious. Do not risk your life because taking a picture with my app was easi
     </td>
     <td width="70%" valign="middle">
       <h3>🔬 Research and Innovation Award</h3>
-      <strong>Research and Excellence Baccalaureate Programme · Castilla y León · 2022–2023</strong>
+      <strong>Research and Excellence Baccalaureate Programme · Castilla y León · 2023–2024</strong>
       <p>
         MelAdvisor was recognized in the Research and Innovation category
         of the Research and Excellence Baccalaureate Programme in Castilla
-        y León for the 2022–2023 academic year.
+        y León for the 2023–2024 academic year.
       </p>
     </td>
   </tr>
