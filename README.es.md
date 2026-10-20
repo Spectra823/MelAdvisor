@@ -37,6 +37,36 @@ Lo que esta app no es, y jamás será, es un sustituto para la opinión cualific
 
 En serio. No arriesguen su salud porque era más sencillo tomar una foto con MelAdvisor que ir al médico a certificar de qué tipo de lesión se trata.
 
+## 🏆 Premios
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./ryc.PNG" width="150" alt="D. Santiago Ramón y Cajal Award logo"/>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🥇 1st D. Santiago Ramón y Cajal Award</h3>
+      <strong>Upper Secondary Level</strong>
+      <p>
+        MelAdvisor recibió el I Premio Escolar D.Santiago Ramón y Cajal en la categoría de Bachillerato.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./inn-inv-dn.jpg" width="150" alt="Research and Innovation award logo"/>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🔬 Research and Innovation Award</h3>
+      <strong>Research and Excellence Baccalaureate Programme · Castilla y León · 2022–2023</strong>
+      <p>
+        MelAdvisor fue reconocido con el Premio de Investigación e Innovación en Bachillerato de Investigación/Excelencia - Categoría C de Castilla
+        y León en el curso 2023/24.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Desarrollo futuro (Hoja de ruta)
 ### Cambios muy probables
 +Añadir base de datos local: Esto permitirá al usuario mantener un seguimiento de sus lunares, tomando múltiples fotografías de la misma lesión que se ordenarán en una línea del tiempo para mayor claridad. Se creará un archivo para cada lunar, con sus imágenes y datos relacionados. Para añadir nuevas imágenes al archivo, se deberá estipular a qué lunar pertenecen al tomarlas (pondré un botón de + o algo parecido para ahcer este proceso sencillo). Toda esta información será después representada en un apartado a aprte con un listado mostrando todos los lunares, en que se podrá filtrar por fecha, tamaño...
