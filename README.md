@@ -38,6 +38,39 @@ The simplicity of use of this app allows any user, regardless of their level of 
 What this App is not, and never will be no matter it's level of accuracy, is a replacer for the opinion of a qualified specialist. If you have serious doubts about a lesion, please consider taking your concerns to a dermatologist as soon as possible.
 I'm serious. Do not risk your life because taking a picture with my app was easier tha going to a doctor and getting a second, better educated, opinion on the topic.
 
+## 🏆 Awards
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./ryc.PNG" width="150" alt="D. Santiago Ramón y Cajal Award logo"/>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🥇 1st D. Santiago Ramón y Cajal Award</h3>
+      <strong>Upper Secondary Level</strong>
+      <p>
+        MelAdvisor received first prize in the Upper Secondary Level category
+        of the D. Santiago Ramón y Cajal Award, recognizing the work carried
+        out on this research project.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./inn-inv-dn.jpg" width="150" alt="Research and Innovation award logo"/>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🔬 Research and Innovation Award</h3>
+      <strong>Research and Excellence Baccalaureate Programme · Castilla y León · 2022–2023</strong>
+      <p>
+        MelAdvisor was recognized in the Research and Innovation category
+        of the Research and Excellence Baccalaureate Programme in Castilla
+        y León for the 2022–2023 academic year.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Roadmap
 ### Very probable changes
 +Add Local Database: This will allow users to keep track of their lesions' development by taking mutiple pictures in different dates. A file will be created for each new lesion, and in it multiple images of that lesion will be converted into a simple timeline. The user will have to stipulate what lesion the new images belong to after taking it, but there will be a filtering system so it is easier to find the desired lesion. 
