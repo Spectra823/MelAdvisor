@@ -46,7 +46,7 @@ En serio. No arriesguen su salud porque era más sencillo tomar una foto con Mel
     </td>
     <td width="70%" valign="middle">
       <h3>🥇 I Premio Escolar D.Santiago Ramón y Cajal</h3>
-      <strong>categoría de Bachillerato</strong>
+      <strong>Categoría de Bachillerato</strong>
       <p>
         MelAdvisor recibió el I Premio Escolar D.Santiago Ramón y Cajal en la categoría de Bachillerato.
       </p>
