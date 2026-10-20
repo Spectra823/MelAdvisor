@@ -34,6 +34,39 @@ Cette application n'est pas, et ne sera jamais, quel que soit son niveau de pré
 
 Je vous en prie, ne risquez pas votre vie parce qu'il était plus facile de prendre une photo avec mon application que d'aller voir un médecin et d'obtenir un deuxième avis, mieux informé, sur le sujet.
 
+## 🏆 Récompenses
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./ryc.PNG" width="150" alt="D. Santiago Ramón y Cajal Award logo"/>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🥇 1er prix D. Santiago Ramón y Cajal</h3>
+      <strong>Niveau de l’enseignement secondaire supérieur</strong>
+      <p>
+        MelAdvisor a remporté le premier prix dans la catégorie de
+        l’enseignement secondaire supérieur du prix D. Santiago Ramón y Cajal,
+        récompensant le travail réalisé dans le cadre de ce projet de recherche.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./inn-inv-dn.jpg" width="150" alt="Research and Innovation award logo"/>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🔬 Prix Recherche et Innovation</h3>
+      <strong>Programme de Baccalauréat de Recherche et d’Excellence · Castille-et-León · 2023–2024</strong>
+      <p>
+        MelAdvisor a été récompensé dans la catégorie Recherche et Innovation
+        du Programme de Baccalauréat de Recherche et d’Excellence de
+        Castille-et-León pour l’année scolaire 2023–2024.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Feuille de route
 ### Changements très probables
 +Ajout d'une base de données locale : Cela permettra aux utilisateurs de suivre l'évolution de leurs lésions en prenant plusieurs photos à des dates différentes. Un fichier sera créé pour chaque nouvelle lésion, et dans ce fichier, plusieurs images de cette lésion seront converties en une simple ligne de temps. L'utilisateur devra préciser à quelle lésion appartiennent les nouvelles images après les avoir prises, mais il y aura un système de filtrage pour qu'il soit plus facile de trouver la lésion souhaitée. De cette façon, ils pourront savoir si leurs lésions grandissent ou non, si leur forme change...
