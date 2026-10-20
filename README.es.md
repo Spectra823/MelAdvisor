@@ -45,8 +45,8 @@ En serio. No arriesguen su salud porque era más sencillo tomar una foto con Mel
       <img src="./ryc.PNG" width="150" alt="D. Santiago Ramón y Cajal Award logo"/>
     </td>
     <td width="70%" valign="middle">
-      <h3>🥇 1st D. Santiago Ramón y Cajal Award</h3>
-      <strong>Upper Secondary Level</strong>
+      <h3>🥇 I Premio Escolar D.Santiago Ramón y Cajal</h3>
+      <strong>categoría de Bachillerato</strong>
       <p>
         MelAdvisor recibió el I Premio Escolar D.Santiago Ramón y Cajal en la categoría de Bachillerato.
       </p>
@@ -57,8 +57,8 @@ En serio. No arriesguen su salud porque era más sencillo tomar una foto con Mel
       <img src="./inn-inv-dn.jpg" width="150" alt="Research and Innovation award logo"/>
     </td>
     <td width="70%" valign="middle">
-      <h3>🔬 Research and Innovation Award</h3>
-      <strong>Research and Excellence Baccalaureate Programme · Castilla y León · 2022–2023</strong>
+      <h3>🔬 Premio de Investigación e Innovación</h3>
+      <strong>Bachillerato de Investigación/Excelencia · Castilla y León · 2023–2024</strong>
       <p>
         MelAdvisor fue reconocido con el Premio de Investigación e Innovación en Bachillerato de Investigación/Excelencia - Categoría C de Castilla
         y León en el curso 2023/24.
